@@ -2,6 +2,7 @@
 With this skill you can print out information on your network printer
 
 ## About
+!!!! the skill is just an idea and doesn't work yet
 With this skill you can print out information on your network printer.
 
 ## Examples

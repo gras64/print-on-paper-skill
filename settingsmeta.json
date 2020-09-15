@@ -1,0 +1,34 @@
+
+{
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "Printer settings",
+                "fields": [
+                    {
+                        "name": "host",
+                        "type": "text",
+                        "label": "Host",
+                        "value": "None",
+                        "placeholder": "IP Adress"
+                    }
+                ]
+            },
+            {
+                "name": "Options",
+                "fields": [
+                    {
+                        "type": "label",
+                        "label": "Webseites"
+                    },
+                    {
+                        "name": "websites",
+                        "type": "text",
+                        "label": "favorite sites",
+                        "value": "google:www.goggle.de|soccer league table:https://www.google.com/search?ei=oOxcX-DfEpG0sAeY15HQAg&q=bundesliga+tabelle&oq=bundesliga+tabelle&gs_lcp=CgZwc3ktYWIQAzIFCAAQsQMyAggAMggIABCxAxCDATIFCAAQsQMyBQgAELEDMgIIADIICAAQsQMQgwEyAggAMgUIABCxAzICCAA6BAgAEEc6BQguELEDOgIILjoECAAQQzoHCC4QsQMQQzoECC4QQzoHCAAQsQMQQzoKCC4QsQMQQxCTAlCG3AJYzv8CYJmMA2gAcAR4AYAB0QGIAb0MkgEGMTYuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwjgr4TN-uPrAhURGuwKHZhrBCoQ4dUDCAw&uact=5#sie=lg;/g/11j34fws37;2;/m/037169;st;fp;1;;"
+                    }
+                ]
+            }
+        ]
+    }
+}
